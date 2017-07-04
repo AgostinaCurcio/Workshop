@@ -1,0 +1,188 @@
+
+
+.nav{
+	background: #2c3e50;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+.contenedor{
+	max-width: 900px;
+	margin: auto; 
+	text-align: center;
+}
+
+.cabecera{
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+}
+
+.cabecera ul{
+	display: flex;
+	list-style: none;
+}
+
+.cabecera ul a{
+	text-decoration: none;
+	color: white;
+	padding: 0 10px;
+	font-size: 12px;
+}
+
+.cabecera h1{
+	font-size: 25px;
+}
+
+header{
+	background: #18bc9c;
+	color: white;
+}
+
+.nombreyapellido{
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-size: 60px;
+	margin-top: 30px; 
+	margin-bottom: 30px;
+}
+
+.subtitulo{
+	font-size: 20px;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+	padding: 20px 0;
+	width: 200px;
+}
+
+.estrellayraya{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.ion-android-star{
+	font-size: 30px;
+	margin: 0 10px;
+}
+
+.ppal{
+	padding: 100px;
+}
+
+
+hr{
+	width: 100px;
+	border: 2px solid;
+	color: white;
+	margin: 0;
+}
+
+h4{
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-size: 40px;
+	color: #2c3e50;
+	margin-bottom: 0px;
+}
+
+.estrellaazul{
+	color:#2c3e50;
+}
+
+.rayaazul{
+	color:#2c3e50;
+}
+
+.imagenesportfolio{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 0 -10px 90px -10px;
+}
+
+.img{
+	max-width: 33%;
+
+}
+
+.img img{
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.about{
+	background: #18bc9c;
+	color: white;
+	padding: 50px;
+}
+
+.h4about{
+	color: white;
+}
+
+.divabout{
+	display: flex;
+	padding: 0 120px;
+	box-sizing: border-box;
+	line-height: 25px;
+	align-items: center;
+}
+
+.download{
+	color: white;
+	background: rgba(0, 0, 0, 0);
+	font-size: 15px;
+	border-radius: 4px;
+	border: 1px solid white;
+	padding: 8px;
+	box-sizing: border-box;
+	margin-top: 20px;
+}
+
+.ion-code-download{
+	font-size: 20px;
+	padding: 10px 10px 0 0;
+}
+
+
+form{
+	display: flex;
+	flex-direction: column;
+	margin: 10px 120px;
+}
+
+input, textarea{
+	border: none;
+	border-top: 1px solid #eee;
+	line-height: 50px;
+	color: #999;
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.send{
+	background: #18bc9c;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	font-size: 15px;
+	max-width: 50px;
+	padding: 5px 10px;
+}
+
+
+
+{
+
+}
